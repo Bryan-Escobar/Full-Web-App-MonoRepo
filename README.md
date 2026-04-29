@@ -1,6 +1,13 @@
-# Foody
+# Full-webApp-MonoRepo
 
-Monorepo del proyecto SaaS **Foody**, organizado con npm workspaces.
+## BASADO EN
+
+**Este proyecto se basa en los siguientes repositorios:**  
+
+1. [node-ts-dev-pack](https://github.com/Bryan-Escobar/node-ts-dev-pack) — Creado por [Bryan Escobar](https://github.com/Bryan-Escobar)  
+2. [React-Supabase-Authflow](https://github.com/kevRodrguez/React-Supabase-Authflow) — Creado por [Kevin Rodríguez](https://github.com/kevRodrguez)
+
+Monorepo  organizado con npm workspaces.
 
 ## Stack
 
@@ -12,7 +19,7 @@ Monorepo del proyecto SaaS **Foody**, organizado con npm workspaces.
 ## Estructura
 
 ```
-Foody/
+Full-webApp-MonoRepo/
 ├── apps/
 │   ├── web/        # Frontend React
 │   └── api/        # Backend Express + Prisma
